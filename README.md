@@ -1,18 +1,18 @@
 # 6D-Pose-Estimation And Implementation
 
-# Hand-Eye Calibration
+## Hand-Eye Calibration
 
 ![calib-gif](https://user-images.githubusercontent.com/61361845/177278554-c34b9e31-f71e-4e75-add9-f419f62e7550.gif)
 
 
-# Dataset (Format similar to LINEMOD and LINEMOD-Occlusion)
+## Dataset (Format similar to LINEMOD and LINEMOD-Occlusion)
 
-Real custom dataset.
+## Real custom dataset.
 
 ![3](https://user-images.githubusercontent.com/61361845/177278919-cd53068f-c53e-4c33-9107-ce7544804f0c.png)
 
 
-Synthetic dataset.
+## Synthetic dataset.
 
 LINEMOD Dataset.
 
@@ -25,7 +25,7 @@ Occlusion Dataset.
 ![object_1 2](https://user-images.githubusercontent.com/61361845/177279694-2eb99287-a92f-4833-9b8e-1e70bc0fa802.png)
 
 
-Testing.
+## Testing.
 
 Testing with model trained on small real dataset.
 
