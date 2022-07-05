@@ -7,12 +7,12 @@
 
 ## Dataset (Format similar to LINEMOD and LINEMOD-Occlusion)
 
-## Real custom dataset.
+### Real custom dataset.
 
 ![3](https://user-images.githubusercontent.com/61361845/177278919-cd53068f-c53e-4c33-9107-ce7544804f0c.png)
 
 
-## Synthetic dataset.
+### Synthetic dataset.
 
 LINEMOD Dataset.
 
