@@ -7,12 +7,12 @@
 
 ## Dataset (Format similar to LINEMOD and LINEMOD-Occlusion)
 
-### Real custom dataset.
+### Real custom dataset
 
 ![3](https://user-images.githubusercontent.com/61361845/177278919-cd53068f-c53e-4c33-9107-ce7544804f0c.png)
 
 
-### Synthetic dataset.
+### Synthetic dataset
 
 LINEMOD.
 
@@ -25,7 +25,7 @@ Occlusion.
 ![object_1 2](https://user-images.githubusercontent.com/61361845/177279694-2eb99287-a92f-4833-9b8e-1e70bc0fa802.png)
 
 
-## Testing.
+## Testing
 
 Testing is done with the model trained on small real dataset only.
 
