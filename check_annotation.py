@@ -1,4 +1,4 @@
-# By ai_99 (14-07-2022)
+# By Jasmeet Singh (14-07-2022)
 import argparse
 import cv2
 import numpy as np
