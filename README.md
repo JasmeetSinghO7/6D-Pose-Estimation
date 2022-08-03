@@ -22,7 +22,7 @@ Occlusion.
 ![object_1 2](https://user-images.githubusercontent.com/61361845/177279694-2eb99287-a92f-4833-9b8e-1e70bc0fa802.png)
 
 
-## To check annotation run:
+## To check annotations run:
 
 '''
 check_annotation.py --object-path ./DatasetLinemod --object-id 1
