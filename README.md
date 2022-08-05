@@ -20,9 +20,9 @@ Occlusion.
 
 ## To check annotations run:
 
-'''
+```
 check_annotation.py --object-path ./DatasetLinemod --object-id 1
-'''
+```
 
 ## Testing
 
