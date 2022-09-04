@@ -9,7 +9,7 @@
 
 LINEMOD.
 
-![3D2](https://user-images.githubusercontent.com/61361845/188285419-a62f572c-be98-4fc0-ab17-9cb841760fd3.png)
+![Image](https://user-images.githubusercontent.com/61361845/188304799-e076f6a4-8acf-498d-b588-51cabd1afa29.png)
 
 ![3D3](https://user-images.githubusercontent.com/61361845/188285420-924db41f-633b-4e11-a414-15c7c844e43b.png)
 
