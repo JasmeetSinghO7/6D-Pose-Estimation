@@ -9,11 +9,9 @@
 
 LINEMOD.
 
-![Image](https://user-images.githubusercontent.com/61361845/188304799-e076f6a4-8acf-498d-b588-51cabd1afa29.png)
+![11](https://user-images.githubusercontent.com/61361845/189476136-770da231-ec17-49a6-ba77-f81a34af5af4.png)
 
-![3D3](https://user-images.githubusercontent.com/61361845/188285420-924db41f-633b-4e11-a414-15c7c844e43b.png)
-
-![3D1](https://user-images.githubusercontent.com/61361845/188285422-7eddde5d-c75b-40cd-98f1-d9230d0cef32.png)
+![6](https://user-images.githubusercontent.com/61361845/189476144-ae55423b-4ac0-4f7d-842f-5b2fa0bcb3e2.png)
 
 
 Occlusion.
