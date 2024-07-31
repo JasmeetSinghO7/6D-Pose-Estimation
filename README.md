@@ -27,8 +27,7 @@ check_annotation.py --object-path ./DatasetLinemod --object-id 1
 
 ## Testing
 
-Testing is done with the model trained on small real dataset only.
-
-![test-gif](https://user-images.githubusercontent.com/61361845/177279942-9579591f-4e4d-4972-a556-43696f15402b.gif)
-
+```
+![gif](https://github.com/user-attachments/assets/5c88610f-cd07-4d02-a0f9-2a8b80d6f3c9)
+```
 
