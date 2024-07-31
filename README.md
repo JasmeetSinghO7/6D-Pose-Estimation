@@ -27,7 +27,6 @@ check_annotation.py --object-path ./DatasetLinemod --object-id 1
 
 ## Testing
 
-```
+
 ![gif](https://github.com/user-attachments/assets/5c88610f-cd07-4d02-a0f9-2a8b80d6f3c9)
-```
 
