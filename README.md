@@ -28,6 +28,6 @@ check_annotation.py --object-path ./DatasetLinemod --object-id 1
 ## Testing
 
 
-<img src="https://github.com/user-attachments/assets/5c88610f-cd07-4d02-a0f9-2a8b80d6f3c9" width="500" height="auto" />
+<img src="https://github.com/user-attachments/assets/5c88610f-cd07-4d02-a0f9-2a8b80d6f3c9" width="640" height="auto" />
 
 
